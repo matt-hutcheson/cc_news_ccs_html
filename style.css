@@ -1,0 +1,13 @@
+header {
+    background-color: dodgerblue;
+}
+
+header > nav > ul {
+    list-style: none;
+    width: 95%;
+    text-align: right;
+}
+
+body {
+    font-family: "Roboto Slab", Arial, sans-serif;
+}
